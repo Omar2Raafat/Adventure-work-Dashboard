@@ -13,7 +13,7 @@ For direct download:
 📥 [Download Dataset](https://github.com/Omar2Raafat/Adventure-work-Dashboard/raw/main/AdventureWorks.xlsx)  
 
 You can also view or download the prjoct to track your work and see all the steps:
-📥 [View Project](https://github.com/Omar2Raafat/Adventure-work-Dashboard/blob/main/project%204%20.xlsx)
+👉 [View Project](https://github.com/Omar2Raafat/Adventure-work-Dashboard/blob/main/project%204%20.xlsx)
 
 For direct download:
 📥 [Download Project](https://github.com/Omar2Raafat/Adventure-work-Dashboard/raw/main/project%204%20.xlsx)
